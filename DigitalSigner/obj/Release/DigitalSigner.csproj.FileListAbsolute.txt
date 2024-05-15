@@ -1,0 +1,13 @@
+D:\Desktop\TI\lab4\RSADigitalSignature\DigitalSigner\bin\Release\DigitalSigner.exe.config
+D:\Desktop\TI\lab4\RSADigitalSignature\DigitalSigner\bin\Release\DigitalSigner.exe
+D:\Desktop\TI\lab4\RSADigitalSignature\DigitalSigner\bin\Release\DigitalSigner.pdb
+D:\Desktop\TI\lab4\RSADigitalSignature\DigitalSigner\bin\Release\RSADigitalSignature.dll
+D:\Desktop\TI\lab4\RSADigitalSignature\DigitalSigner\bin\Release\RSADigitalSignature.pdb
+D:\Desktop\TI\lab4\RSADigitalSignature\DigitalSigner\obj\Release\DigitalSigner.csproj.AssemblyReference.cache
+D:\Desktop\TI\lab4\RSADigitalSignature\DigitalSigner\obj\Release\DigitalSigner.MainForm.resources
+D:\Desktop\TI\lab4\RSADigitalSignature\DigitalSigner\obj\Release\DigitalSigner.Properties.Resources.resources
+D:\Desktop\TI\lab4\RSADigitalSignature\DigitalSigner\obj\Release\DigitalSigner.csproj.GenerateResource.cache
+D:\Desktop\TI\lab4\RSADigitalSignature\DigitalSigner\obj\Release\DigitalSigner.csproj.CoreCompileInputs.cache
+D:\Desktop\TI\lab4\RSADigitalSignature\DigitalSigner\obj\Release\DigitalS.437CB9A9.Up2Date
+D:\Desktop\TI\lab4\RSADigitalSignature\DigitalSigner\obj\Release\DigitalSigner.exe
+D:\Desktop\TI\lab4\RSADigitalSignature\DigitalSigner\obj\Release\DigitalSigner.pdb
